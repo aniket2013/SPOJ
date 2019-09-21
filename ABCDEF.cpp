@@ -1,5 +1,3 @@
-
-
 #include<bits/stdc++.h>
 using namespace std;
 long long int ar[1000];long long int ar1[1000];long long int ar2[1000];long long int n;long long int i,j,k;vector<int>v;vector<long long int>v1;vector<long long int>v2;
